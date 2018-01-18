@@ -1,0 +1,9 @@
+{
+  "name": "test name v2",
+  "version": "2.0.0",
+  "description": "test desc v2",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^2.2.8"
+  }
+}
