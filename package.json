@@ -1,11 +1,11 @@
 {
-  "name": "test name",
+  "name": "test-name",
   "version": "1.0.0",
   "description": "test desc",
   "license": "MIT",
   "devDependencies": {
     "browserify": "^13.1.0",
-    "hashmark": "^2.0.0"
+    "hashmark": "^2.0.0",
     "stylus": "^0.49.3"
   }
 }
