@@ -4,6 +4,7 @@
   "description": "test desc v2",
   "license": "MIT",
   "devDependencies": {
-    "rimraf": "^2.2.8"
+    "rimraf": "^2.2.8",
+    "browserify": "^13.1.0"
   }
 }
